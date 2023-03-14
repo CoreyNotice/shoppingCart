@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Chair",
+      "price": 210.99,
+      "imgUrl": "/public/chair.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Car",
+      "price": 31999.00,
+      "imgUrl":  "/public/s.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mug",
+      "price": 1.05,
+      "imgUrl":  "/public/mug.jpg"
+    }
+   
+  ]
